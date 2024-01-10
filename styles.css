@@ -1,0 +1,23 @@
+.preperation{
+background-color: red;
+color:white;
+}
+
+.ingredients{
+background-color: aqua;
+color: black;
+}
+
+.description {
+background-color: black;
+color: white;
+}
+
+.heading {
+    background-color: yellow;
+    color:brown;
+}
+
+.fun-font {
+font-family:fantasy;
+}
